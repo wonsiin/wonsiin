@@ -1,4 +1,7 @@
-### Hi there 👋
+### 初めまして 👋
+### 私はムンジュヒョンです。
+### 今はコーヂィングが上手じゃありませんが、上手になりたいです。
+### どうぞよろしくお願いいたします。
 
 <!--
 **wonsiin/wonsiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
